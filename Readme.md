@@ -1,4 +1,3 @@
 ## Screenshot
-*****
+
 ![imagen](/table.png)
-****
